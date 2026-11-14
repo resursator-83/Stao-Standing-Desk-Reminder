@@ -192,4 +192,4 @@ This repository serves as the official landing page for Stao. The software is di
 **Get the most recent version of Stao today!**
 
 ---
-**Last updated:** 2026-11-13 22:26:43 UTC
+**Last updated:** 2026-11-14 02:51:20 UTC
